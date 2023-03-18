@@ -1,6 +1,6 @@
-## Plataforma Sirius
+## Focu Tech
 
-Plataforma de gestão de IoT para industria e outras areas de automação.
+Organização com os softwares construidos para a empresa focu.
 
 <!--
 
